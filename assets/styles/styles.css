@@ -80,10 +80,10 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .bgimg{
-	max-width: 15em;
-	position: relative;
-	bottom: 1.5em;
-	border-radius: 150px;
+    max-width: 15em;
+    position: relative;
+    bottom: 3.0em;
+    border-radius: 150px;
 }
 
 #about .details {
